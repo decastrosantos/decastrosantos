@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @decastrosantos
-- 👀 I’m interested in share my projects and also learn from the others
-- 🌱 I’m currently learning R, Phyton, counting...
-- 💞️ I’m looking to collaborate on Data Analysis using R and Phyton 
-- 📫 You can to reach me acessing my LinkedIn profile ==>> https://www.linkedin.com/in/gustavo-de-castro-63336a6a/
+- 👋 Hi, I’m Gustavo de Castro AS @decastrosantos
+- 👀 I’m interested in sharing my projects and also learning from the others
+- 🌱 I’m currently learning Tableau, R, counting...
+- 💞️ I’m looking to collaborate on Data Analysis using SQL, Power BI, and Phyton 
+- 📫 You can reach me by accessing my LinkedIn profile ==>> https://www.linkedin.com/in/gustavo-de-castro-1910/
 
 <!---
 decastrosantos/decastrosantos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
