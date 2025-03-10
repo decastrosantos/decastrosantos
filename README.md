@@ -3,15 +3,15 @@
 
 - 👨🏼‍🎓I'm also fluent in English, Spanish and Portuguese 
 
-- 👨‍💻 Some of my projects are available at [https://dashboards.digital/p/gustavodecastro](https://dashboards.digital/p/gustavodecastro)
-
 - 💬 You can ask me things about **SQL, Power BI, Tableau, Looker Studio & Python**
 
-- 📫 How to reach me **gustao_7@hotmail.com**
+- 👨‍💻 Some of my projects are available at [https://dashboards.digital/p/gustavodecastro](https://dashboards.digital/p/gustavodecastro)
 
 - 📄 You can also know about my experiences [https://drive.google.com/file/d/1K42RvYqi0I1WJGuAeVD8IbDBJ7jJzKe3/view?usp=sharing](https://drive.google.com/file/d/1K42RvYqi0I1WJGuAeVD8IbDBJ7jJzKe3/view?usp=sharing)
 
-- ⚡ Fun fact **I'm also a runner 🏃**
+- 📫 How to reach me **gustao_7@hotmail.com**
+
+- ⚡ Fun fact **I Ran 7 Marathons already and finished an Ironman 70.3 🏃**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
