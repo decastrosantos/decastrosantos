@@ -5,9 +5,10 @@
 
 - 💬 You can ask me things about **SQL, Power BI, Tableau, Looker Studio & Python**
 
-- 👨‍💻 Some of my projects are available at [https://dashboards.digital/p/gustavodecastro](https://dashboards.digital/p/gustavodecastro)
+- 👨‍💻 Some of my projects are available [here](https://dashboards.digital/p/gustavodecastro)
 
-- 📄 You can also know about my experiences [https://drive.google.com/file/d/1K42RvYqi0I1WJGuAeVD8IbDBJ7jJzKe3/view?usp=sharing](https://drive.google.com/file/d/1K42RvYqi0I1WJGuAeVD8IbDBJ7jJzKe3/view?usp=sharing)
+- 📄 Know about my experiences checking my [Resume](https://drive.google.com/file/d/1K42RvYqi0I1WJGuAeVD8IbDBJ7jJzKe3/view?usp=sharing)
+
 
 - 📫 How to reach me **gustao_7@hotmail.com**
 
