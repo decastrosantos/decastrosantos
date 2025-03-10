@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **gustao_7@hotmail.com**
 
-- ⚡ Fun fact **I Ran 7 Marathons already and finished an Ironman 70.3 🏃**
+- ⚡ Fun fact: **I Ran 7 Marathons already and finished an Ironman 70.3 🏃**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
