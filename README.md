@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gustavo de Castro but you can call me 'Gus'😉</h1>
-<h3 align="center">😀 I'm a Data Lover from Brazil living in Spain</h3>
+<h3 align="center">😀 I'm a Brazilian Data Analyst living in Spain</h3>
+
+- 📊 I'm passionate about all-things data and try to share that enthusiasm in my work and with others.
 
 - 👨🏼‍🎓I'm also fluent in English, Spanish and Portuguese 
 
