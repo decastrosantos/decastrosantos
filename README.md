@@ -7,6 +7,8 @@
 
 - 💬 You can ask me things about **SQL, Power BI, Tableau, Looker Studio & Python**
 
+- 😀 I'm always happy to connect with fellow enthusiasts, swap ideas and learn
+
 - 👨‍💻 Some of my projects are available [here](https://dashboards.digital/p/gustavodecastro)
 
 - 📄 Know about my experiences checking my [Resume](https://drive.google.com/file/d/1K42RvYqi0I1WJGuAeVD8IbDBJ7jJzKe3/view?usp=sharing)
