@@ -46,11 +46,7 @@
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
 </div>
 
---
 
-###
-
-<h2 align="left">Stats</h2>
 
 ###
 
@@ -62,7 +58,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/decastrosantos/decastrosantos/output/snake.svg" alt="Snake animation" />
 
 
 <!---
