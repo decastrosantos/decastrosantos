@@ -11,7 +11,7 @@
 
 - 👨‍💻 Some of my projects are available [here](https://dashboards.digital/p/gustavodecastro)
 
-- 📄 Know about my experiences checking my [Resume](https://drive.google.com/file/d/14DuXTqQGt24w_1ufPpNRFYwTEL2LQHAx/view?usp=sharing)
+- 📄 Know about my experiences checking my [Resume](https://drive.google.com/file/d/1IyurREMqBIj-CvDkjMC4bU3V47R2Ucp4/view?usp=sharing)
 
 
 
